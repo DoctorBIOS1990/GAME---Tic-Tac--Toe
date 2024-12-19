@@ -5,7 +5,5 @@
 > 
 # :camera_flash: Screenshots
 <div align="center">
-  <img src="https://github.com/DoctorBIOS1990/GAME-Tic-Tac-Toe/blob/main/ScreenShot/screen%201.jpg">
-  <img src="https://github.com/DoctorBIOS1990/GAME-Tic-Tac-Toe/blob/main/ScreenShot/screen%202.jpg">
-  <img src="https://github.com/DoctorBIOS1990/GAME-Tic-Tac-Toe/blob/main/ScreenShot/screen%203.jpg">
+  <img src="https://github.com/DoctorBIOS1990/game-tic-tac-toe/blob/main/ScreenShot/Screenshot.jpg">
 </div>
